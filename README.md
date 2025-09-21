@@ -1,4 +1,5 @@
+**To Do**
 - [x] Create Git repo
-- [ ] Create Django project
+- [x] Create Django project
 - [ ] Install bootstrap / bulma
-- [ ] Find a emplate worth using
+- [ ] Find a template worth using
